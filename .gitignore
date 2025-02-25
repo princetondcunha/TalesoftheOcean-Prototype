@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore the output folder
+output/
+
+# Ignore all Excel files
+*.xlsx
